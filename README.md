@@ -6,4 +6,6 @@
 - 💬 Ask me about that time that I walked on an iced lake in Russia  
 - 📫 How to reach me: mariapambr@gmail.com
 - 😄 Pronouns: she/her
--->
+
+### My toolbox 
+? https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
