@@ -8,4 +8,5 @@
 - 😄 Pronouns: she/her
 
 ### My toolbox 
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand)
 ?:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
