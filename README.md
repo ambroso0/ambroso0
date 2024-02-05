@@ -1,6 +1,6 @@
 ### Hi there, I am Mariapaola 👋
 
-- 📚 I'm currently a student at the University of Virginia School of Data Science pursuing a MS in Data Science
+- 📚 Graduated from the University of Virginia School of Data Science with a MS in Data Science
 - 🌱 I’m an environmental scientist 
 - 👯 I would love to collaborate on environmental related issues combining GIS and data science 
 - 💬 Ask me about that time that I walked on an iced lake in Russia  
